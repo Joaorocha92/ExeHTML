@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exe 3</title>
+	<metacharset="utf-8">
+</head>
+<body>
+<h1>Mapa do site </h1>
+<ul>
+	<ul>
+		<li>Home</li>
+		<li>Quem somos</li>
+		<li>Contato</li> 
+	</ul>
+</ul>
+</body>
+</html>
