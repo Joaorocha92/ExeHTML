@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title> Aula 1 HTML</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<h1>Sobre a empresa</h1>
+<hr>
+<p>Essa é uma empresa </p>
+<h1>contato</h1>
+<hr>
+<p>Esse é o novo texto</p><br>
+  Esse é umtexto <b>negrito.</b><br>
+  Esse é um texto<i>itálico.</i><br>
+  <p>Esse é um textou nderline.</p>
+  Esse é um texto errado
+
+</body>
+</html>
