@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ex formulario</title>
+	<meta charset = "utf-8">
+</head>
+<body>
+
+	<h1>Formulario</h1>
+
+	<form>
+		Login :<br><input type="text" name="txt_login"><br>
+		Senha : <br>
+		<input type="password" name="txt_senha"><br>
+		Sexo: <br>
+		<input type="radio" name="rd_Sexo" value="M">Masculino<br>
+		<input type="radio" name="rd_Sexo" value="F">Feminino<br>
+		Preferencias:
+		<input type="checkbox" name= "ch_pref1"> Futebol
+		<input type="checkbox" name= "ch_pref2"> Volei
+		<input type="checkbox" name= "ch_pref3"> Basquete <br>
+		Estado:
+		<select name="cb_estado">
+			<option value="pr">Parana</option>
+			<option value="sp">São Paulo</option>
+		</select><br>	
+		Observações: <br>
+		<textarea name="area_obs">
+		</textarea><br>
+		<input type="button" name="bt_submit" value="Criar Conta">
+		<input type="submit" name="bt2_submit" value="submit 2">
+
+
+	</form>
+
+</body>
+</html>
